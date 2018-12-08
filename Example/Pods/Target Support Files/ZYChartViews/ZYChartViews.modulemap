@@ -1,0 +1,6 @@
+framework module ZYChartViews {
+  umbrella header "ZYChartViews-umbrella.h"
+
+  export *
+  module * { export * }
+}

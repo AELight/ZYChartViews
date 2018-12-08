@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - ZYChartViews (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - ZYChartViews (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  ZYChartViews:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  ZYChartViews: 805c1a7e8d1add8433ccd6d3529593784ce81488
+
+PODFILE CHECKSUM: 74c652df15e3149197211ba8c155f7e11291545f
+
+COCOAPODS: 1.5.3

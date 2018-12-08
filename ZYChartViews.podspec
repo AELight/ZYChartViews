@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ZYChartViews'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of ZYChartViews.'
+  s.version          = '0.0.1'
+  s.summary          = '自定义图表使用.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,10 +18,10 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+  常见图表的使用,如柱状图,雷达图等.
                        DESC
 
-  s.homepage         = 'https://github.com/AELight/ZYChartViews'
+  s.homepage         = 'https://github.com/AELight'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'AELight' => 'zhuyiae@163.com' }
@@ -30,13 +30,13 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'ZYChartViews/Classes/**/*'
+  s.source_files = 'ZYChartViews/Classes/*.{h,m}'
   
   # s.resource_bundles = {
   #   'ZYChartViews' => ['ZYChartViews/Assets/*.png']
   # }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
+  s.public_header_files = 'ZYChartViews/Classes/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end

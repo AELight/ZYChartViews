@@ -61,11 +61,11 @@
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		88330DBB1F2430D2BA9B8381 /* Pods-ZYChartViews_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZYChartViews_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ZYChartViews_Example/Pods-ZYChartViews_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		8E778A6DD37C63EC55B55F5D /* ZYChartViews.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = ZYChartViews.podspec; path = ../ZYChartViews.podspec; sourceTree = "<group>"; };
+		8E778A6DD37C63EC55B55F5D /* ZYChartViews.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ZYChartViews.podspec; path = ../ZYChartViews.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		8F4423FBD267CD89AD4112CE /* Pods-ZYChartViews_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZYChartViews_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-ZYChartViews_Example/Pods-ZYChartViews_Example.release.xcconfig"; sourceTree = "<group>"; };
-		B0D629CD613CD142BD5B7AE9 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		B0D629CD613CD142BD5B7AE9 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		B23B60DED336AB977AE6CDE5 /* Pods-ZYChartViews_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZYChartViews_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ZYChartViews_Tests/Pods-ZYChartViews_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		C1B47BEBA4C61ED5545094C2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		C1B47BEBA4C61ED5545094C2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		D8938E446C816F3C1FDE7178 /* Pods-ZYChartViews_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZYChartViews_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ZYChartViews_Tests/Pods-ZYChartViews_Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
